@@ -109,6 +109,6 @@ List the official Tata Elxsi investor-relations pages and quarterly financial di
 
 ## 12. Author
 
-**Yashvardhan Ganage**
+**Yashvardhan Pravin Ganage**
 
 Data Analytics | Business Intelligence | Financial Performance Analysis
