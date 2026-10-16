@@ -4,6 +4,12 @@ A quarterly financial performance analysis of Tata Elxsi using Python and Power 
 **Tools:** Python · Pandas · Power BI · Excel  
 **Domain:** Financial Analytics · Business Intelligence · Performance Analysis
 
+## Power BI Dashboard
+
+The interactive Power BI dashboard provides an executive overview of Tata Elxsi's financial performance, including revenue growth, EBITDA margin trends, and cost movements.
+
+![Tata Elxsi Business Performance Diagnosis Dashboard](screenshots/executive_dashboard.png)
+
 ## 1. Project Overview
 
 This project analyzes Tata Elxsi Ltd.'s quarterly financial performance to investigate a key business question:
