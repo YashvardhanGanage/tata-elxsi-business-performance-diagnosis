@@ -84,8 +84,9 @@ tata-elxsi-business-performance-diagnosis/
 ├── data/
 │   └── processed/
 │       └── tata_elxsi_quarterly_kpis.csv
-├── powerbi/
-│   └── Tata_Elxsi_Business_Performance_Diagnosis.pbix
+├── outputs/
+│   └──powerbi/
+│      └── Tata_Elxsi_Business_Performance_Diagnosis.pbix
 └── reports/
     ├── executive_summary.pdf
     └── dashboard_preview.png
